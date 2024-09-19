@@ -1,0 +1,7 @@
+# Godot 4+ specific ignores
+.godot/
+
+authenticate.tscn
+icon.svg
+icon.svg.import
+project.godot
